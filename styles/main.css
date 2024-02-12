@@ -1,0 +1,35 @@
+body {
+    background-image: url("/assets/High-Seas-Treaty-U.N.-member-states-oceans-conservation-fisheries.jpg");
+    background-size: 100%;
+}
+h1 {
+    text-align: center;
+    margin: 15px 5px;
+}
+
+h2 {
+    padding: 10px 0px 0px 15px;
+}
+
+.details { 
+    align-content: center;
+    width: auto;
+    height: auto;
+    color:yellowgreen;
+    text-shadow: 1px 1px black;
+    background-color: teal;
+    font-size: large;
+    border: 3px solid navy;
+    
+}
+
+.column {
+    float: left;
+    width: 33.3%;
+}
+
+.divide:hover {
+    background-color: blueviolet;
+    width: 50%;
+    color: aliceblue
+}
